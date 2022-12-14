@@ -15,11 +15,12 @@ jobs:
       run: |
           npm ci
           npm run build
-          
+          npm run export
+
     - name: Deploy  🚀
       uses: JamesIves/github-pages-deploy-action@v4
       env:
        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       with:
         branch: gh-pages
-        folder: build # The folder the action should deploy.
+        folder: out # The folder the action should deploy.
