@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+    workflow_dispatch:
+    schedule:
+    - cron: '0 0 * * *'
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -23,3 +26,10 @@ jobs:
       with:
         branch: gh-pages
         folder: ./out # The folder the action should deploy.
+    - name: Awesome generator
+        uses: simonecorsi/mawesome@v2
+        with:
+          api-token: ${{ secrets.ACCESS_TOKEN }}
+          github-email: ${{ secrets.USER_EMAIL }}
+          template-path: "template/README.ejs"
+          github-name: ${{ github.repository_owner }}  
