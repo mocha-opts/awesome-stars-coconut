@@ -1,6 +1,6 @@
 <div align="center">
 
-# awesome-stars-eryajf
+# awesome-stars-coconut
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Pull Requests](https://img.shields.io/github/stars/mocha-opts/awesome-stars-coconut?logo=Undertale)](https://github.com/mocha-opts/awesome-stars-coconut/stargazers)
