@@ -381,7 +381,7 @@
 
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 
-*   [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
+*   [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 
 *   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 
