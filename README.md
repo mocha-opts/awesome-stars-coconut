@@ -301,7 +301,7 @@
 
 *   [lipeiwei-szu/ReactNativeOne](https://github.com/lipeiwei-szu/ReactNativeOne) - 基于React-Native的高仿「ONE·一个」，兼容Android、iOS双平台（由于接口原因，该代码库不再更新）
 
-*   [hizzgdev/jsmind](https://github.com/hizzgdev/jsmind) - Javascript version of mind mapping
+*   [hizzgdev/jsmind](https://github.com/hizzgdev/jsmind) - a mind mapping library built by javascript
 
 *   [js-newbee/taro-yanxuan](https://github.com/js-newbee/taro-yanxuan) - 首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED
 
