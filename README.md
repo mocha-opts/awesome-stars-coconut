@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
@@ -39,7 +40,13 @@
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
 
+## Kotlin
+
+*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
+
 ## JavaScript
+
+*   [vasanthk/js-bits](https://github.com/vasanthk/js-bits) - ✨ JavaScript concepts with code ✨
 
 *   [fergiemcdowall/search-index](https://github.com/fergiemcdowall/search-index) - A persistent, network resilient, full text search library for the browser and Node.js
 
@@ -117,7 +124,7 @@
 
 *   [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 
-*   [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+*   [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 
 *   [webpack-contrib/mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - Lightweight CSS extraction plugin
 
@@ -346,10 +353,6 @@
 *   [manikandanraji/youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend) - Youtube Clone Frontend (React + Redux)
 
 *   [MuYunyun/blog](https://github.com/MuYunyun/blog) - Life is a moment :notebook\_with\_decorative\_cover:
-
-*   [async-labs/builderbook](https://github.com/async-labs/builderbook) - Open source web application to learn JS stack: React, Material-UI, Next.js, Node.js, Express.js, Mongoose, MongoDB database.
-
-*   [aircloud/backboneAnalyze](https://github.com/aircloud/backboneAnalyze) - backbone源码解读
 
 ## Rust
 
