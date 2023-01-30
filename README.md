@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
@@ -24,7 +25,6 @@
 *   [Kotlin](#kotlin)
 *   [Shell](#shell)
 *   [Python](#python)
-*   [Vue](#vue)
 *   [HTML](#html)
 *   [Ruby](#ruby)
 *   [Swift](#swift)
@@ -42,6 +42,26 @@
 *   [Less](#less)
 *   [Objective-C](#objective-c)
 *   [Thanks](#thanks)
+
+## Vue
+
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
+*   [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
+
+*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+
+*   [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
+
+*   [saucxs/happy-chat-web](https://github.com/saucxs/happy-chat-web) - 一款聊天的技术产品，支持pc端，无线端，桌面端和android端。支持文字，emoji表情，https和http2.0，全局Router.beforEach实现数据埋点等，技术栈：vue+vuex+koa2+websocketIO+mysql+redis。桌面端(win)采用的electron实现，android端采用cordova。地址https://chat.chengxinsong.cn
+
+*   [xiaozhu188/electron-vue-cloud-music](https://github.com/xiaozhu188/electron-vue-cloud-music) - 🚀Electron + Vue 仿网易云音乐windows客户端
+
+*   [dongyuanxin/blog](https://github.com/dongyuanxin/blog) - 📚 专注Web与算法
+
+*   [wuyawei/Vchat](https://github.com/wuyawei/Vchat) - 💘🍦🙈Vchat — 从头到脚，撸一个社交聊天系统（vue + node + mongodb）
+
+*   [shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question) - 互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中
 
 ## Rust
 
@@ -917,8 +937,6 @@
 
 *   [Bigerfe/koa-react-ssr](https://github.com/Bigerfe/koa-react-ssr) - zz.js v2.0 一个可以用来做项目的ssr开发骨架，基于 koa2 + react16 + router5 + wp4 搭建
 
-*   [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
-
 ## Handlebars
 
 *   [gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) - :books: Go语言圣经中文版 🇨🇳
@@ -948,24 +966,6 @@
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## Vue
-
-*   [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
-
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-
-*   [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
-
-*   [saucxs/happy-chat-web](https://github.com/saucxs/happy-chat-web) - 一款聊天的技术产品，支持pc端，无线端，桌面端和android端。支持文字，emoji表情，https和http2.0，全局Router.beforEach实现数据埋点等，技术栈：vue+vuex+koa2+websocketIO+mysql+redis。桌面端(win)采用的electron实现，android端采用cordova。地址https://chat.chengxinsong.cn
-
-*   [xiaozhu188/electron-vue-cloud-music](https://github.com/xiaozhu188/electron-vue-cloud-music) - 🚀Electron + Vue 仿网易云音乐windows客户端
-
-*   [dongyuanxin/blog](https://github.com/dongyuanxin/blog) - 📚 专注Web与算法
-
-*   [wuyawei/Vchat](https://github.com/wuyawei/Vchat) - 💘🍦🙈Vchat — 从头到脚，撸一个社交聊天系统（vue + node + mongodb）
-
-*   [shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question) - 互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中
 
 ## HTML
 
