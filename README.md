@@ -40,10 +40,11 @@
 *   [C++](#c)
 *   [Stylus](#stylus)
 *   [Less](#less)
-*   [Objective-C](#objective-c)
 *   [Thanks](#thanks)
 
 ## TypeScript
+
+*   [ychengcloud/react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - This Starter utilizes React, Recoil, React Query, React Hooks, Typescript, Axios And Vite. 全新技术栈的后台管理系统
 
 *   [ArcherGu/fast-vite-nestjs-electron](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vite + Electron + Nestjs with esbuild, crazy fast! ⚡
 
@@ -61,7 +62,7 @@
 
 *   [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 
-*   [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Alternative application of discord and slack
+*   [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Alternative application of discord and slack. Connect your workflow and 3rd part application with tailchat.
 
 *   [sudongyuer/javascript-mental-models](https://github.com/sudongyuer/javascript-mental-models) - 💘 帮助你建立良好的JavaScript心智模型
 
@@ -1090,10 +1091,6 @@
 ## Less
 
 *   [z-9527/admin](https://github.com/z-9527/admin) - react+koa实现登陆、聊天、留言板功能后台
-
-## Objective-C
-
-*   [crazycodeboy/RNStudyNotes](https://github.com/crazycodeboy/RNStudyNotes) - React Native 研究与实践
 
 ## Thanks
 
