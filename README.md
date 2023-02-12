@@ -816,7 +816,7 @@
 
 *   [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
 
-*   [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation\&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
+*   [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation\&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 
 *   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 
