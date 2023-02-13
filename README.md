@@ -202,8 +202,6 @@
 
 *   [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 
-*   [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) - ⚗️ GitHub开源项目维护协作指南
-
 *   [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 
 *   [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
@@ -812,7 +810,7 @@
 
 *   [dawn-plex/translate](https://github.com/dawn-plex/translate) - 阿里云翻译小组，为社区输出优质的技术文章。
 
-*   [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 go 后端程序员宝典：讲解了go基础语法，go底层数据结构，go runtime 实现原理，go 并发模式 ，go语言项目经验
+*   [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 go 后端程序员宝典：go基础语法，go底层数据结构，go runtime 实现原理，go 并发模式 ，go语言项目经验
 
 *   [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
 
@@ -841,6 +839,8 @@
 *   [Snipaste/feedback](https://github.com/Snipaste/feedback) - Feedback & wiki for Snipaste https://snipaste.com
 
 *   [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
+
+*   [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) - ⚗️ GitHub开源项目维护协作指南
 
 *   [wesbos/dad-jokes](https://github.com/wesbos/dad-jokes) - dad jokes
 
