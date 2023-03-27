@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [Clojure](#clojure)
 *   [TypeScript](#typescript)
 *   [Makefile](#makefile)
 *   [Go](#go)
@@ -47,6 +48,10 @@
 *   [Objective-C](#objective-c)
 *   [Dart](#dart)
 *   [Thanks](#thanks)
+
+## Clojure
+
+*   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 ## TypeScript
 
@@ -1103,8 +1108,6 @@
 *   [parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) - A curated list of small, focused npm packages.
 
 *   [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
-
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
 ## Shell
 
