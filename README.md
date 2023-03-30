@@ -339,7 +339,7 @@
 
 *   [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 
-*   [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+*   [amplication/amplication](https://github.com/amplication/amplication) - Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development 🚀
 
 *   [lsqy/taro-music](https://github.com/lsqy/taro-music) - 🎉基于taro + taro-ui + redux + react-hooks + typescript 开发的网易云音乐小程序,taro3已升级完毕，目前正在使用react-hooks重构中（不定时更新）
 
