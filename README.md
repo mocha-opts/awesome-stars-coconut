@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [Swift](#swift)
 *   [miscellaneous](#miscellaneous)
@@ -27,7 +28,6 @@
 *   [Makefile](#makefile)
 *   [CSS](#css)
 *   [Lua](#lua)
-*   [HTML](#html)
 *   [Markdown](#markdown)
 *   [Java](#java)
 *   [C](#c)
@@ -48,6 +48,46 @@
 *   [Less](#less)
 *   [Objective-C](#objective-c)
 *   [Thanks](#thanks)
+
+## HTML
+
+*   [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+
+*   [ten-ltw/JavaScript-The-Definitive-Guide-7th-zh](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh) - 《JavaScript权威指南第七版》中英对照
+
+*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [w3c/aria-practices](https://github.com/w3c/aria-practices) - WAI-ARIA Authoring Practices Guide (APG)
+
+*   [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
+
+*   [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本
+
+*   [fengmiaosen/web-awesome](https://github.com/fengmiaosen/web-awesome) - 前端小札
+
+*   [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书
+
+*   [godbasin/godbasin.github.io](https://github.com/godbasin/godbasin.github.io) - 被删前端博客--喜欢请star
+
+*   [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
+
+*   [roy-tian/learning-area](https://github.com/roy-tian/learning-area) - MDN 学习区示例中文版
+
+*   [biaochenxuying/blog](https://github.com/biaochenxuying/blog) - 大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
+
+*   [ElemeFE/node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
+
+*   [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
+
+*   [koala-coding/goodBlog](https://github.com/koala-coding/goodBlog) - 我是koala, 公众号【程序员成长指北】的作者， 专注Node.js技术栈分享，从前端到Node.js再到后端数据库，帮您成为优秀的Node.js全栈工程师。和我一起进阶全栈吧！
+
+*   [dennis-jiang/Front-End-Knowledges](https://github.com/dennis-jiang/Front-End-Knowledges) - 前端知识进阶
+
+*   [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
 
 ## TypeScript
 
@@ -959,8 +999,6 @@
 
 *   [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
-*   [Bigerfe/koa-react-ssr](https://github.com/Bigerfe/koa-react-ssr) - zz.js v2.0 一个可以用来做项目的ssr开发骨架，基于 koa2 + react16 + router5 + wp4 搭建
-
 ## Rust
 
 *   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -1168,44 +1206,6 @@
 ## Lua
 
 *   [wongdean/rime-settings](https://github.com/wongdean/rime-settings) - 接近原生的鼠须管 Rime 配置
-
-## HTML
-
-*   [ten-ltw/JavaScript-The-Definitive-Guide-7th-zh](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh) - 《JavaScript权威指南第七版》中英对照
-
-*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [w3c/aria-practices](https://github.com/w3c/aria-practices) - WAI-ARIA Authoring Practices Guide (APG)
-
-*   [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
-
-*   [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本
-
-*   [fengmiaosen/web-awesome](https://github.com/fengmiaosen/web-awesome) - 前端小札
-
-*   [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书
-
-*   [godbasin/godbasin.github.io](https://github.com/godbasin/godbasin.github.io) - 被删前端博客--喜欢请star
-
-*   [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
-
-*   [roy-tian/learning-area](https://github.com/roy-tian/learning-area) - MDN 学习区示例中文版
-
-*   [biaochenxuying/blog](https://github.com/biaochenxuying/blog) - 大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
-
-*   [ElemeFE/node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
-
-*   [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
-
-*   [koala-coding/goodBlog](https://github.com/koala-coding/goodBlog) - 我是koala, 公众号【程序员成长指北】的作者， 专注Node.js技术栈分享，从前端到Node.js再到后端数据库，帮您成为优秀的Node.js全栈工程师。和我一起进阶全栈吧！
-
-*   [dennis-jiang/Front-End-Knowledges](https://github.com/dennis-jiang/Front-End-Knowledges) - 前端知识进阶
-
-*   [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
 
 ## Markdown
 
