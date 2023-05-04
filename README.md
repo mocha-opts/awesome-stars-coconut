@@ -293,8 +293,6 @@
 
 *   [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 
-*   [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
-
 *   [baizn/g6-in-react](https://github.com/baizn/g6-in-react) - 如何在React中使用G6，如何在使用G6的过程中渲染自定义的React组件，所有的疑问这里都可以帮你解答。
 
 *   [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
@@ -780,6 +778,8 @@
 *   [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 
 *   [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
+
+*   [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
 
 *   [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 
