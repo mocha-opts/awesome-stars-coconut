@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Java](#java)
 *   [Swift](#swift)
 *   [JavaScript](#javascript)
@@ -23,7 +24,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Go](#go)
-*   [Python](#python)
 *   [Shell](#shell)
 *   [Clojure](#clojure)
 *   [Makefile](#makefile)
@@ -48,6 +48,18 @@
 *   [Less](#less)
 *   [Objective-C](#objective-c)
 *   [Thanks](#thanks)
+
+## Python
+
+*   [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## Java
 
@@ -502,8 +514,6 @@
 *   [YvetteLau/Blog](https://github.com/YvetteLau/Blog) - 【前端进阶】优质博文
 
 *   [JinJieTan/react-webpack](https://github.com/JinJieTan/react-webpack) - React移动端项目，手动配置的脚手架，完美性能优化的极致追求
-
-*   [BUPTlhuanyu/react-music-lhy](https://github.com/BUPTlhuanyu/react-music-lhy) - 基于react16+  react-router4+ typescript  react-redux的移动端音乐播放器
 
 ## HTML
 
@@ -1164,16 +1174,6 @@
 *   [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 
 *   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-
-## Python
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
-
-*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## Shell
 
