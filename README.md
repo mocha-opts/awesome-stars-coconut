@@ -99,7 +99,7 @@
 
 *   [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 
-*   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
+*   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
 
 *   [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 
@@ -609,7 +609,7 @@
 
 ## JavaScript
 
-*   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。持续更新的增强功能，如取消审计等。解决的报错如下: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) Conversation not found. (4) This content may violate our content policy.
+*   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页等等。
 
 *   [kosmetism/react-soundplayer](https://github.com/kosmetism/react-soundplayer) - 📻 Create custom web audio players with React
 
