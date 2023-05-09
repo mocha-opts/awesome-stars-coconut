@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [Clojure](#clojure)
 *   [CSS](#css)
 *   [C](#c)
 *   [TypeScript](#typescript)
@@ -28,7 +29,6 @@
 *   [Rust](#rust)
 *   [Go](#go)
 *   [Shell](#shell)
-*   [Clojure](#clojure)
 *   [Makefile](#makefile)
 *   [Lua](#lua)
 *   [Markdown](#markdown)
@@ -48,6 +48,12 @@
 *   [Stylus](#stylus)
 *   [Less](#less)
 *   [Thanks](#thanks)
+
+## Clojure
+
+*   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+
+*   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 ## CSS
 
@@ -394,8 +400,6 @@
 ## Objective-C
 
 *   [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
-
-*   [crazycodeboy/RNStudyNotes](https://github.com/crazycodeboy/RNStudyNotes) - React Native 研究与实践
 
 ## Python
 
@@ -1220,10 +1224,6 @@
 *   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 
 *   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-
-## Clojure
-
-*   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 ## Makefile
 
