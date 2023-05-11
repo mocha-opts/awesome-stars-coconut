@@ -28,6 +28,7 @@
 *   [HTML](#html)
 *   [Rust](#rust)
 *   [Go](#go)
+*   [C++](#c-1)
 *   [Shell](#shell)
 *   [Makefile](#makefile)
 *   [Lua](#lua)
@@ -44,7 +45,6 @@
 *   [Astro](#astro)
 *   [SCSS](#scss)
 *   [Dockerfile](#dockerfile)
-*   [C++](#c-1)
 *   [Stylus](#stylus)
 *   [Less](#less)
 *   [Thanks](#thanks)
@@ -406,8 +406,6 @@
 *   [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py) - 👨‍💻 Python cleanup script for macOS
 
 *   [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 
 *   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 
@@ -1207,6 +1205,12 @@
 
 *   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 
+## C++
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+
+*   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
+
 ## Shell
 
 *   [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -
@@ -1300,10 +1304,6 @@
 ## Dockerfile
 
 *   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (May 2023)
-
-## C++
-
-*   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 
 ## Stylus
 
