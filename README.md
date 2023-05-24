@@ -83,7 +83,7 @@
 
 *   [KieSun/all-of-frontend](https://github.com/KieSun/all-of-frontend) - 你想知道的前端内容都在这
 
-*   [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：\[初稿进度90%]记录JavaScript、Node.js、Vue/React等
+*   [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：\[初稿进度90%]记录JavaScript、Node.js、Vue/React等。文本错误依然很多，会坚持改，抱歉。
 
 *   [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 
