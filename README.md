@@ -77,7 +77,7 @@
 
 *   [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 
-*   [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - Easy to understand React Hook code recipes
+*   [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of Server Component safe React Hooks – from the ui.dev team
 
 *   [Boshen/javascript-parser-in-rust](https://github.com/Boshen/javascript-parser-in-rust) - A book on writing a JavaScript Parser in Rust
 
