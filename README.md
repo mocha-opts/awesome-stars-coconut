@@ -793,7 +793,7 @@
 
 *   [ArcherGu/fast-vite-nestjs-electron](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vite + Electron + Nestjs with esbuild, crazy fast! ⚡
 
-*   [emqx/MQTTX](https://github.com/emqx/MQTTX) - Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools
+*   [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 
 *   [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 
