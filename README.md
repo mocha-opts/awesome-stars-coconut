@@ -16,6 +16,7 @@
 ## Table of Contents
 
 *   [Rust](#rust)
+*   [Assembly](#assembly)
 *   [JavaScript](#javascript)
 *   [Hack](#hack)
 *   [Python](#python)
@@ -35,7 +36,6 @@
 *   [Makefile](#makefile)
 *   [Lua](#lua)
 *   [Markdown](#markdown)
-*   [Assembly](#assembly)
 *   [Vue](#vue)
 *   [Handlebars](#handlebars)
 *   [Kotlin](#kotlin)
@@ -50,6 +50,8 @@
 *   [Thanks](#thanks)
 
 ## Rust
+
+*   [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 
 *   [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.
 
@@ -132,6 +134,12 @@
 *   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+
+## Assembly
+
+*   [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
+
+*   [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required) - An approachable introduction to Assembly
 
 ## JavaScript
 
@@ -1037,10 +1045,6 @@
 
 *   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
-*   [ascoders/react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer) - 🚀 tiny & fast lib for react native image viewer pan and zoom
-
-*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
-
 ## Clojure
 
 *   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
@@ -1252,10 +1256,6 @@
 ## Markdown
 
 *   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-
-## Assembly
-
-*   [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required) - An approachable introduction to Assembly
 
 ## Vue
 
