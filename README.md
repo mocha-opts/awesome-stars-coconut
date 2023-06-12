@@ -1205,7 +1205,7 @@
 
 *   [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) -
 
-*   [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM
+*   [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM instant messaging service
 
 *   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
