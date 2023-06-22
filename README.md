@@ -40,6 +40,7 @@
 *   [Handlebars](#handlebars)
 *   [Kotlin](#kotlin)
 *   [Ruby](#ruby)
+*   [MDX](#mdx)
 *   [Rich Text Format](#rich-text-format)
 *   [Solidity](#solidity)
 *   [Nunjucks](#nunjucks)
@@ -874,8 +875,6 @@
 
 *   [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 
-*   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
-
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
 ## Assembly
@@ -1285,6 +1284,10 @@
 ## Ruby
 
 *   [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
+
+## MDX
+
+*   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 
 ## Rich Text Format
 
