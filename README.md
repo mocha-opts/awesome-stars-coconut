@@ -23,7 +23,7 @@
 *   [Hack](#hack)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
-*   [Jupyter Notebook](#jupyter-notebook)
+*   [MDX](#mdx)
 *   [Clojure](#clojure)
 *   [C](#c)
 *   [Objective-C](#objective-c)
@@ -40,7 +40,7 @@
 *   [Handlebars](#handlebars)
 *   [Kotlin](#kotlin)
 *   [Ruby](#ruby)
-*   [MDX](#mdx)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Rich Text Format](#rich-text-format)
 *   [Solidity](#solidity)
 *   [Nunjucks](#nunjucks)
@@ -1061,11 +1061,11 @@
 
 *   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
-## Jupyter Notebook
+## MDX
 
 *   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
-*   [xianhu/LearnPython](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习Python
+*   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 
 ## Clojure
 
@@ -1285,9 +1285,9 @@
 
 *   [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
-## MDX
+## Jupyter Notebook
 
-*   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+*   [xianhu/LearnPython](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习Python
 
 ## Rich Text Format
 
