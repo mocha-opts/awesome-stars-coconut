@@ -841,7 +841,7 @@
 
 *   [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 
-*   [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next-gen browser-native component library. Framework-agnostic, base on web components. Powered by Quarkc.(浏览器原生组件库，无框架组件库，可跨各种技术栈使用。底层基于Quarkc构建)
+*   [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next-gen browser-native component library. Framework-agnostic, base on web components. Powered by Quarkc.(跨端/跨框架的原生 UI 组件库，即插即用。底层基于Quarkc构建)
 
 *   [jdf2e/nutui-react](https://github.com/jdf2e/nutui-react) - 京东风格的移动端 React 组件库 、支持多端小程序(A React UI Toolkit for Mobile Web)
 
