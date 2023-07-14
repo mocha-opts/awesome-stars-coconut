@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
@@ -37,7 +38,6 @@
 *   [Makefile](#makefile)
 *   [Lua](#lua)
 *   [Markdown](#markdown)
-*   [Vue](#vue)
 *   [Handlebars](#handlebars)
 *   [Kotlin](#kotlin)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -49,7 +49,27 @@
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
 
+## Vue
+
+*   [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
+
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
+*   [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
+
+*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+
+*   [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
+
+*   [xiaozhu188/electron-vue-cloud-music](https://github.com/xiaozhu188/electron-vue-cloud-music) - 🚀Electron + Vue 仿网易云音乐windows客户端
+
+*   [dongyuanxin/blog](https://github.com/dongyuanxin/blog) - 📚 专注Web与算法
+
+*   [shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question) - 互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中
+
 ## miscellaneous
+
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
 *   [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：\[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
 
@@ -251,7 +271,7 @@
 
 *   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
-*   [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
+*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 
 *   [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
 
@@ -1073,8 +1093,6 @@
 
 *   [chokcoco/jQuery-](https://github.com/chokcoco/jQuery-) - jQuery源码解析
 
-*   [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
-
 ## HTML
 
 *   [PKM-er/Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz  themes example vault for Obsidian
@@ -1085,7 +1103,7 @@
 
 *   [ten-ltw/JavaScript-The-Definitive-Guide-7th-zh](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh) - 《JavaScript权威指南第七版》中英对照
 
-*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
@@ -1142,8 +1160,6 @@
 *   [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
 
 *   [HubSpot/offline](https://github.com/HubSpot/offline) - Automatically display online/offline indication to your users
-
-*   [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) - jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……
 
 ## Assembly
 
@@ -1260,22 +1276,6 @@
 ## Markdown
 
 *   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-
-## Vue
-
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-
-*   [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
-
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-
-*   [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
-
-*   [xiaozhu188/electron-vue-cloud-music](https://github.com/xiaozhu188/electron-vue-cloud-music) - 🚀Electron + Vue 仿网易云音乐windows客户端
-
-*   [dongyuanxin/blog](https://github.com/dongyuanxin/blog) - 📚 专注Web与算法
-
-*   [shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question) - 互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中
 
 ## Handlebars
 
