@@ -1017,7 +1017,7 @@
 
 *   [yezihaohao/NeteaseCloudMusic](https://github.com/yezihaohao/NeteaseCloudMusic) - React Native 模仿网易云音乐手机客户端，兼容安卓和IOS两个平台。
 
-*   [lipeiwei-szu/ReactNativeOne](https://github.com/lipeiwei-szu/ReactNativeOne) - 基于React-Native的高仿「ONE·一个」，兼容Android、iOS双平台（由于接口原因，该代码库不再更新）
+*   [vivianli-me/ReactNativeOne](https://github.com/vivianli-me/ReactNativeOne) - 基于React-Native的高仿「ONE·一个」，兼容Android、iOS双平台（由于接口原因，该代码库不再更新）
 
 *   [hizzgdev/jsmind](https://github.com/hizzgdev/jsmind) - a mind mapping library built by javascript
 
