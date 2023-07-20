@@ -15,10 +15,10 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
-*   [Rust](#rust)
 *   [Go](#go)
 *   [Ruby](#ruby)
 *   [JavaScript](#javascript)
@@ -49,6 +49,94 @@
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
 
+## Rust
+
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
+
+*   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
+
+*   [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
+
+*   [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.
+
+*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
+
+*   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
+
+*   [henrikpersson/potatis](https://github.com/henrikpersson/potatis) - 🥔 MOS-6502 and NES emulator in Rust (SDL/WebAssembly/Android/Embedded/Cloud)
+
+*   [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from your Rust app.
+
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+*   [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+
+*   [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
+
+*   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+
+*   [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
+
+*   [rust-secure-code/cargo-geiger](https://github.com/rust-secure-code/cargo-geiger) - Detects usage of unsafe Rust in a Rust crate and its dependencies.
+
+*   [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
+
+*   [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
+
+*   [daboross/fern](https://github.com/daboross/fern) - Simple, efficient logging for Rust
+
+*   [TeXitoi/structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
+
+*   [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
+
+*   [Amanieu/parking\_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
+
+*   [rust-lang/socket2](https://github.com/rust-lang/socket2) - Advanced configuration options for sockets.
+
+*   [tokio-rs/bytes](https://github.com/tokio-rs/bytes) - Utilities for working with bytes
+
+*   [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
+
+*   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
+
+*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+
+*   [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - A pure Rust implementation of WebRTC
+
+*   [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
+
+*   [roogle-rs/roogle](https://github.com/roogle-rs/roogle) - A Rust API search engine
+
+*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+
+*   [rust-in-action/code](https://github.com/rust-in-action/code) - Source code for the book Rust in Action
+
+*   [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
+
+*   [infinyon/fluvio](https://github.com/infinyon/fluvio) - An intelligent event streaming platform
+
+*   [telecss/telecss](https://github.com/telecss/telecss) - WIP: CSS tokenizer, parser, transformer, minifier, written in Rust.
+
+*   [i5ting/learn-rust-for-fe](https://github.com/i5ting/learn-rust-for-fe) - Rust是未来前端基础设施
+
+*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+
+*   [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
+
+*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<\<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
+
+*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+
+*   [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+
+*   [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
+
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+
 ## Vue
 
 *   [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
@@ -64,8 +152,6 @@
 *   [xiaozhu188/electron-vue-cloud-music](https://github.com/xiaozhu188/electron-vue-cloud-music) - 🚀Electron + Vue 仿网易云音乐windows客户端
 
 *   [dongyuanxin/blog](https://github.com/dongyuanxin/blog) - 📚 专注Web与算法
-
-*   [shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question) - 互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中
 
 ## miscellaneous
 
@@ -540,92 +626,6 @@
 *   [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 
 *   [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
-
-## Rust
-
-*   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
-
-*   [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
-
-*   [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.
-
-*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
-
-*   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
-
-*   [henrikpersson/potatis](https://github.com/henrikpersson/potatis) - 🥔 MOS-6502 and NES emulator in Rust (SDL/WebAssembly/Android/Embedded/Cloud)
-
-*   [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from your Rust app.
-
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-*   [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-
-*   [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
-
-*   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-
-*   [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
-
-*   [rust-secure-code/cargo-geiger](https://github.com/rust-secure-code/cargo-geiger) - Detects usage of unsafe Rust in a Rust crate and its dependencies.
-
-*   [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
-
-*   [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
-
-*   [daboross/fern](https://github.com/daboross/fern) - Simple, efficient logging for Rust
-
-*   [TeXitoi/structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
-
-*   [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
-
-*   [Amanieu/parking\_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
-
-*   [rust-lang/socket2](https://github.com/rust-lang/socket2) - Advanced configuration options for sockets.
-
-*   [tokio-rs/bytes](https://github.com/tokio-rs/bytes) - Utilities for working with bytes
-
-*   [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
-
-*   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
-
-*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
-
-*   [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - A pure Rust implementation of WebRTC
-
-*   [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-
-*   [roogle-rs/roogle](https://github.com/roogle-rs/roogle) - A Rust API search engine
-
-*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-
-*   [rust-in-action/code](https://github.com/rust-in-action/code) - Source code for the book Rust in Action
-
-*   [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
-
-*   [infinyon/fluvio](https://github.com/infinyon/fluvio) - An intelligent event streaming platform
-
-*   [telecss/telecss](https://github.com/telecss/telecss) - WIP: CSS tokenizer, parser, transformer, minifier, written in Rust.
-
-*   [i5ting/learn-rust-for-fe](https://github.com/i5ting/learn-rust-for-fe) - Rust是未来前端基础设施
-
-*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-
-*   [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
-
-*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<\<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
-
-*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-
-*   [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-
-*   [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
-
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
 ## Go
 
