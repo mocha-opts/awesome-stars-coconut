@@ -115,7 +115,7 @@
 
 *   [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
 
-*   [infinyon/fluvio](https://github.com/infinyon/fluvio) - An intelligent event streaming platform
+*   [infinyon/fluvio](https://github.com/infinyon/fluvio) - Composable unified data streaming platform powered by Rust and Web Assembly
 
 *   [telecss/telecss](https://github.com/telecss/telecss) - WIP: CSS tokenizer, parser, transformer, minifier, written in Rust.
 
@@ -1307,7 +1307,7 @@
 
 ## Dockerfile
 
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (May 2023)
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2023)
 
 ## Stylus
 
