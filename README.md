@@ -139,7 +139,7 @@
 
 *   [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 
-*   [changcheng1/simple\_React](https://github.com/changcheng1/simple_React) - 基于最新版React18，源码精简至3500行代码，包含超700行注释，包含最核心的代码，图解React
+*   [changcheng1/mini\_React](https://github.com/changcheng1/mini_React) - 基于最新版React18，源码精简至3500行代码，包含超700行注释，包含最核心的代码，图解React
 
 *   [miracle90/monitor](https://github.com/miracle90/monitor) - 前端监控体系搭建（错误、异常、白屏、性能监控、卡顿、pv等，接入日志、告警系统）
 
