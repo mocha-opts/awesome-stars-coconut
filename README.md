@@ -509,7 +509,7 @@
 
 *   [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 
-*   [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例（持续更新）
+*   [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（持续更新）
 
 *   [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 
@@ -1163,7 +1163,7 @@
 
 *   [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) -
 
-*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM SDK chat
+*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat
 
 *   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
