@@ -521,6 +521,8 @@
 
 *   [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 
+*   [buqiyuan/nest-admin](https://github.com/buqiyuan/nest-admin) - NestJs CRUD 使用 nestjs + mysql + typeorm + redis + jwt + swagger 企业中后台管理系统项目RBAC权限管理(细粒度到按钮)、实现单点登录等。
+
 *   [notiz-dev/nestjs-prisma-starter](https://github.com/notiz-dev/nestjs-prisma-starter) - Starter template for NestJS 😻 includes GraphQL with Prisma Client, Passport-JWT authentication, Swagger Api and Docker
 
 *   [rolling-scopes/rsschool-app](https://github.com/rolling-scopes/rsschool-app) - An application for the RS School education process
@@ -1009,7 +1011,7 @@
 
 *   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 
-*   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
+*   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 
 *   [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 
@@ -1180,8 +1182,6 @@
 *   [QiuChenlyOpenSource/InjectLib](https://github.com/QiuChenlyOpenSource/InjectLib) - 基于Ruby编写的命令行注入版本
 
 *   [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -
-
-*   [buqiyuan/nest-admin](https://github.com/buqiyuan/nest-admin) - NestJs CRUD 使用 nestjs + mysql + typeorm + redis + jwt + swagger 企业中后台管理系统项目RBAC权限管理(细粒度到按钮)、实现单点登录等。
 
 *   [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh) - 🗑️ Cleanup script for macOS (DEPRECATED)
 
