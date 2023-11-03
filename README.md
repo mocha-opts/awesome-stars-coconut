@@ -643,7 +643,7 @@
 
 *   [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 
-*   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+*   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 
 *   [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 
