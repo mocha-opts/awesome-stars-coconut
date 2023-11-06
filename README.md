@@ -153,7 +153,7 @@
 
 *   [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 
-*   [Boshen/javascript-parser-in-rust](https://github.com/Boshen/javascript-parser-in-rust) - A book on writing a JavaScript Parser in Rust
+*   [oxc-project/javascript-parser-in-rust](https://github.com/oxc-project/javascript-parser-in-rust) - Tutorial on writing a JavaScript Parser in Rust
 
 *   [KieSun/all-of-frontend](https://github.com/KieSun/all-of-frontend) - 你想知道的前端内容都在这
 
