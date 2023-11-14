@@ -623,7 +623,7 @@
 
 *   [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 
-*   [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Browser-native component library, framework-agnostic, base on web components.(面向未来的组件库，跨端、跨框架、浏览器原生，即插即用。)
+*   [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Browser-native component library, framework-agnostic, base on web components.(面向未来的组件库，跨端、跨框架、浏览器原生，即插即用。底层基于 Quarkc！)
 
 *   [jdf2e/nutui-react](https://github.com/jdf2e/nutui-react) - 京东风格的移动端 React 组件库 、支持多端小程序(A React UI Toolkit for Mobile Web)
 
