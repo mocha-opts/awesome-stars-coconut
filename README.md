@@ -26,6 +26,7 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
+*   [QML](#qml)
 *   [Vue](#vue)
 *   [Go](#go)
 *   [Shell](#shell)
@@ -821,8 +822,6 @@
 
 *   [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
-*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。
-
 *   [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 
 *   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -1098,6 +1097,10 @@
 *   [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+
+## QML
+
+*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - 开源、免费、实用的离线OCR软件。截屏/粘贴/批量导入图片，支持段落排版/排除水印，扫描/生成二维码。全程无需联网，内置多国语言识别库。
 
 ## Vue
 
