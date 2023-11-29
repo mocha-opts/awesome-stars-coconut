@@ -138,7 +138,7 @@
 
 *   [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
 
-*   [infinyon/fluvio](https://github.com/infinyon/fluvio) - Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly.
+*   [infinyon/fluvio](https://github.com/infinyon/fluvio) - Distributed stream processing runtime built with Rust & Web Assembly. Cloud Native, Edge Ready, Unified, Composable, Declarative, Stateful data streaming for building asynchronous data flows.
 
 *   [telecss/telecss](https://github.com/telecss/telecss) - WIP: CSS tokenizer, parser, transformer, minifier, written in Rust.
 
@@ -594,7 +594,7 @@
 
 *   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
-*   [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with users !  Alternative to OpenAI GPTs
+*   [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs
 
 *   [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 
