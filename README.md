@@ -138,7 +138,7 @@
 
 *   [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
 
-*   [infinyon/fluvio](https://github.com/infinyon/fluvio) - Distributed stream processing runtime built with Rust & Web Assembly. Cloud Native, Edge Ready, Unified, Composable, Declarative, Stateful data streaming for building asynchronous data flows.
+*   [infinyon/fluvio](https://github.com/infinyon/fluvio) - Fluvio is a distributed stream processing system for developers to build end to end event driven data flows and services. Fluvio is built using rust & web assembly. Fluvio is cloud native, declarative, lightweight, fast, efficient.
 
 *   [telecss/telecss](https://github.com/telecss/telecss) - WIP: CSS tokenizer, parser, transformer, minifier, written in Rust.
 
@@ -330,7 +330,7 @@
 
 *   [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles
 
-*   [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《GO 后端宝典》：基础语法，并发模式，底层原理，runtime 实现原理 ，语言项目经验。
+*   [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《GO 后端宝典》：基础语法，并发模式，go runtime 实现原理 ，语言项目经验。
 
 *   [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
 
@@ -1130,7 +1130,7 @@
 
 *   [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序
 
-*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+*   [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 
 *   [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 
@@ -1310,7 +1310,7 @@
 
 ## Dockerfile
 
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2023)
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (December 2023)
 
 ## Stylus
 
