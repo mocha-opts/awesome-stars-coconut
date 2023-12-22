@@ -49,10 +49,11 @@
 *   [Dockerfile](#dockerfile)
 *   [Stylus](#stylus)
 *   [Less](#less)
-*   [PHP](#php)
 *   [Thanks](#thanks)
 
 ## TypeScript
+
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 
 *   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
 
@@ -186,7 +187,7 @@
 
 *   [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 
-*   [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Browser-native component library, framework-agnostic, base on web components.(面向未来的组件库，跨端、跨框架、浏览器原生，即插即用。底层基于 Quarkc！)
+*   [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Browser-native component library, framework-agnostic, base on web components.(面向未来，跨端/跨框架、浏览器原生组件库，即插即用！底层基于 Quarkc！)
 
 *   [jdf2e/nutui-react](https://github.com/jdf2e/nutui-react) - 京东风格的移动端 React 组件库 、支持多端小程序(A React UI Toolkit for Mobile Web)
 
@@ -1517,10 +1518,6 @@
 ## Less
 
 *   [z-9527/admin](https://github.com/z-9527/admin) - react+koa实现登陆、聊天、留言板功能后台
-
-## PHP
-
-*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 
 ## Thanks
 
