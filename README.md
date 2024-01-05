@@ -365,6 +365,8 @@
 
 *   [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 
+*   [gothinkster/node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app) -
+
 *   [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 
 *   [lsqy/taro-music](https://github.com/lsqy/taro-music) - 🎉基于taro + taro-ui + redux + react-hooks + typescript 开发的网易云音乐小程序,taro3已升级完毕，目前正在使用react-hooks重构中（不定时更新）
@@ -915,8 +917,6 @@
 
 *   [nswbmw/N-blog](https://github.com/nswbmw/N-blog) - 《一起学 Node.js》
 
-*   [gothinkster/node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app) -
-
 *   [layrjs/react-layr-realworld-example-app](https://github.com/layrjs/react-layr-realworld-example-app) - Exemplary real world application built with React and Layr
 
 *   [xiangyuecn/Recorder](https://github.com/xiangyuecn/Recorder) - html5 js 录音 mp3 wav ogg webm amr g711a g711u 格式，支持pc和Android、iOS部分浏览器、Hybrid App（提供Android iOS App源码）、微信，提供ASR语音识别转文字 H5版语音通话聊天示例 DTMF编码解码
@@ -1093,7 +1093,7 @@
 
 ## Rust
 
-*   [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app.
+*   [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Enhance your app with seamless collaboration and effortless time-travel features
 
 *   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 
