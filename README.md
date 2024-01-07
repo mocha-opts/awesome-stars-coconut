@@ -1337,7 +1337,7 @@
 
 *   [mikespook/Learning-Go-zh-cn](https://github.com/mikespook/Learning-Go-zh-cn) - 一本学习 Go 语言的免费电子书。
 
-*   [jiujuan/go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
+*   [jiujuan/go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务，最后到跑路。
 
 *   [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
 
