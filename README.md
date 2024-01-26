@@ -53,6 +53,8 @@
 
 ## Java
 
+*   [dolyw/ShiroJwt](https://github.com/dolyw/ShiroJwt) - API SpringBoot + Shiro + Java-Jwt + Redis(Jedis)
+
 *   [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 
 *   [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
@@ -524,8 +526,6 @@
 *   [seajs/seajs](https://github.com/seajs/seajs) - A Module Loader for the Web
 
 *   [ljianshu/Blog](https://github.com/ljianshu/Blog) - 关注基础知识，打造优质前端博客，公众号\[前端工匠]的作者
-
-*   [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
 
 ## Go
 
