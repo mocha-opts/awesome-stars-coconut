@@ -1023,8 +1023,6 @@
 
 *   [jassics/security-study-plan](https://github.com/jassics/security-study-plan) - Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
 
-*   [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
-
 *   [dawn-plex/translate](https://github.com/dawn-plex/translate) - 阿里云翻译小组，为社区输出优质的技术文章。
 
 *   [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
@@ -1264,6 +1262,8 @@
 *   [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly.
 
 *   [telecss/telecss](https://github.com/telecss/telecss) - WIP: CSS tokenizer, parser, transformer, minifier, written in Rust.
+
+*   [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 
 *   [i5ting/learn-rust-for-fe](https://github.com/i5ting/learn-rust-for-fe) - Rust是未来前端基础设施
 
