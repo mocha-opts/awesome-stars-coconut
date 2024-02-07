@@ -297,8 +297,6 @@
 
 *   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
-*   [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
-
 *   [john-smilga/node-express-course](https://github.com/john-smilga/node-express-course) -
 
 *   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
@@ -852,6 +850,8 @@
 *   [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 
 *   [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
+
+*   [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 
 *   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 
