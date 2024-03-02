@@ -695,8 +695,6 @@
 
 *   [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 
-*   [GetStream/stream-chat-react](https://github.com/GetStream/stream-chat-react) - React Chat SDK ➜ Stream Chat 💬
-
 *   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 
 *   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
@@ -1432,6 +1430,8 @@
 *   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 *   [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
+
+*   [GetStream/stream-chat-react](https://github.com/GetStream/stream-chat-react) - React Chat SDK ➜ Stream Chat 💬
 
 *   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 
