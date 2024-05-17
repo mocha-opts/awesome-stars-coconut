@@ -112,7 +112,7 @@
 
 *   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 
-*   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
+*   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
 
 *   [kosmetism/react-soundplayer](https://github.com/kosmetism/react-soundplayer) - 📻 Create custom web audio players with React
 
@@ -1114,7 +1114,7 @@
 
 *   [RubyLouvre/mobileHack](https://github.com/RubyLouvre/mobileHack) - 这里收集了许多移动端上遇到的各种坑
 
-*   [kenberkeley/redux-simple-tutorial](https://github.com/kenberkeley/redux-simple-tutorial) - Redux 简明教程。本教程深入浅出，配套入门、进阶源码解读以及文档注释丰满的 Demo 等一条龙服务
+*   [kenberkeley/redux-simple-tutorial](https://github.com/kenberkeley/redux-simple-tutorial) - Redux 简明教程。本教程深入浅出，配套入门、进阶源码解读以及文档注释丰富的 Demo 等一条龙服务
 
 *   [reactjs/react-basic](https://github.com/reactjs/react-basic) - A description of the conceptual model of React without implementation burden.
 
