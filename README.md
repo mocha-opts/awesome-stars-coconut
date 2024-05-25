@@ -1050,7 +1050,7 @@
 
 *   [easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
 
-*   [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 悄咪咪收集的1000+个Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests
+*   [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 悄咪咪收集的5000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖
 
 *   [shaokeyibb/open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth) - 深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。
 
