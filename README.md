@@ -473,6 +473,8 @@
 
 *   [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 
+*   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+
 ## Python
 
 *   [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light) - More relighting!
@@ -1312,8 +1314,6 @@
 *   [danielyxie/bitburner](https://github.com/danielyxie/bitburner) - Bitburner Game
 
 *   [fengmiaosen/web-awesome](https://github.com/fengmiaosen/web-awesome) - 前端小札
-
-*   [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书
 
 *   [godbasin/godbasin.github.io](https://github.com/godbasin/godbasin.github.io) - 被删前端博客--喜欢请star
 
