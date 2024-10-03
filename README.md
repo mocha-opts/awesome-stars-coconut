@@ -1281,7 +1281,7 @@
 
 *   [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 *   [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 
