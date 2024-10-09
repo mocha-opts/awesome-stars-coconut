@@ -15,10 +15,10 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Python](#python)
-*   [Java](#java)
 *   [Go](#go)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
@@ -50,6 +50,52 @@
 *   [Stylus](#stylus)
 *   [Less](#less)
 *   [Thanks](#thanks)
+
+## Java
+
+*   [xuchengsheng/spring-reading](https://github.com/xuchengsheng/spring-reading) - 涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。
+
+*   [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+
+*   [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+
+*   [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+
+*   [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+OpenFeign+ELK)。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+
+*   [dolyw/ShiroJwt](https://github.com/dolyw/ShiroJwt) - API SpringBoot + Shiro + Java-Jwt + Redis(Jedis)
+
+*   [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
+
+*   [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
+
+*   [linlinjava/litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+
+*   [crmeb/crmeb\_java](https://github.com/crmeb/crmeb_java) - Java商城 免费 开源 CRMEB商城JAVA版，SpringBoot + Maven + Swagger + Mybatis Plus + Redis + Uniapp +Vue+elementUI 包含移动端、小程序、PC后台、Api接口；有产品、用户、购物车、订单、积分、优惠券、营销、余额、权限、角色、系统设置、组合数据、可拖拉拽的form表单等模块，大量的减少了二开的成本。
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
+
+*   [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
+
+*   [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
+
+*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+
+*   [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+
+*   [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+
+*   [crossoverJie/cim](https://github.com/crossoverJie/cim) - 📲cim(cross IM) 适用于开发者的分布式即时通讯系统
+
+*   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
+
+*   [apache/rocketmq-externals](https://github.com/apache/rocketmq-externals) - Mirror of Apache RocketMQ (Incubating)
+
+*   [react-native-image-picker/react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker) - :sunrise\_over\_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera.
+
+*   [react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
+
+*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
 ## TypeScript
 
@@ -871,50 +917,6 @@
 
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
-## Java
-
-*   [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
-
-*   [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-
-*   [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
-
-*   [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+OpenFeign+ELK)。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
-
-*   [dolyw/ShiroJwt](https://github.com/dolyw/ShiroJwt) - API SpringBoot + Shiro + Java-Jwt + Redis(Jedis)
-
-*   [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
-
-*   [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
-
-*   [linlinjava/litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
-
-*   [crmeb/crmeb\_java](https://github.com/crmeb/crmeb_java) - Java商城 免费 开源 CRMEB商城JAVA版，SpringBoot + Maven + Swagger + Mybatis Plus + Redis + Uniapp +Vue+elementUI 包含移动端、小程序、PC后台、Api接口；有产品、用户、购物车、订单、积分、优惠券、营销、余额、权限、角色、系统设置、组合数据、可拖拉拽的form表单等模块，大量的减少了二开的成本。
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-
-*   [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
-
-*   [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
-
-*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-
-*   [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-
-*   [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
-
-*   [crossoverJie/cim](https://github.com/crossoverJie/cim) - 📲cim(cross IM) 适用于开发者的分布式即时通讯系统
-
-*   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
-
-*   [apache/rocketmq-externals](https://github.com/apache/rocketmq-externals) - Mirror of Apache RocketMQ (Incubating)
-
-*   [react-native-image-picker/react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker) - :sunrise\_over\_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera.
-
-*   [react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
-
-*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-
 ## Go
 
 *   [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd PRO：https://antd.go-admin.pro
@@ -1390,8 +1392,6 @@
 *   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 
 *   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
 
 ## CSS
 
