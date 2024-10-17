@@ -1505,7 +1505,7 @@
 
 ## SCSS
 
-*   [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
+*   [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
 
 ## Dockerfile
 
