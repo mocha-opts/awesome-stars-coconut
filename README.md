@@ -975,7 +975,7 @@
 
 *   [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 
-*   [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) -
+*   [eclipse-paho/paho.mqtt.golang](https://github.com/eclipse-paho/paho.mqtt.golang) -
 
 *   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat
 
