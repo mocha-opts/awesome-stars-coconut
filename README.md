@@ -177,7 +177,7 @@
 
 *   [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 
-*   [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+*   [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 
 *   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 
