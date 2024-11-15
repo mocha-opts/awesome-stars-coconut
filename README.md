@@ -97,7 +97,7 @@
 
 *   [drac94/react-auth-code-input](https://github.com/drac94/react-auth-code-input) - One-time password (OTP) React component, zero dependencies, fully tested.
 
-*   [motiondivision/motion](https://github.com/motiondivision/motion) - Open source, production-ready animation and gesture library for React
+*   [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 
 *   [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（持续更新）
 
