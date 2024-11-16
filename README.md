@@ -977,7 +977,7 @@
 
 *   [eclipse-paho/paho.mqtt.golang](https://github.com/eclipse-paho/paho.mqtt.golang) -
 
-*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat
+*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT AI AIGC CHATBOT
 
 *   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
