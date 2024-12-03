@@ -1087,7 +1087,7 @@
 
 *   [unknwon/go-study-index](https://github.com/unknwon/go-study-index) - Go 语言学习资料索引
 
-*   [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
+*   [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 为您甄选国内外前端领域的优质资讯，洞悉行业最新进展，助力技术成长之旅。
 
 *   [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 
