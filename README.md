@@ -1143,7 +1143,7 @@
 
 *   [MarnoDev/react-native-open-project](https://github.com/MarnoDev/react-native-open-project) - 可能是目前最用心收集的 React Native 优秀开源项目大全，公众号【aMarno】www.marno.cn
 
-*   [NervJS/awesome-taro](https://github.com/NervJS/awesome-taro) - 多端统一开发框架 Taro 优秀学习资源汇总
+*   [jd-opensource/awesome-taro](https://github.com/jd-opensource/awesome-taro) - 多端统一开发框架 Taro 优秀学习资源汇总
 
 *   [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 
