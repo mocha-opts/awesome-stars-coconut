@@ -257,7 +257,7 @@
 
 *   [baizn/g6-in-react](https://github.com/baizn/g6-in-react) - 如何在React中使用G6，如何在使用G6的过程中渲染自定义的React组件，所有的疑问这里都可以帮你解答。
 
-*   [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
+*   [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 
 *   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 
@@ -457,7 +457,7 @@
 
 *   [BUPTlhuanyu/react-music-lhy](https://github.com/BUPTlhuanyu/react-music-lhy) - 基于react16+  react-router4+ typescript  react-redux的移动端音乐播放器
 
-*   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+*   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 
 *   [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 
