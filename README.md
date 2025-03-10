@@ -42,7 +42,6 @@
 *   [Markdown](#markdown)
 *   [Kotlin](#kotlin)
 *   [Ruby](#ruby)
-*   [Handlebars](#handlebars)
 *   [Rich Text Format](#rich-text-format)
 *   [Solidity](#solidity)
 *   [SCSS](#scss)
@@ -552,6 +551,8 @@
 *   [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 
 *   [ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis) - :thumbsup: Vue.js 源码分析
+
+*   [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 
 *   [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 
@@ -1490,10 +1491,6 @@
 ## Ruby
 
 *   [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-
-## Handlebars
-
-*   [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 
 ## Rich Text Format
 
