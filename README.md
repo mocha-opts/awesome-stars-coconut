@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [Objective-C++](#objective-c)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Java](#java)
@@ -24,7 +25,7 @@
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [HTML](#html)
-*   [Objective-C](#objective-c)
+*   [Objective-C](#objective-c-1)
 *   [Dart](#dart)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [PHP](#php)
@@ -49,6 +50,10 @@
 *   [Stylus](#stylus)
 *   [Less](#less)
 *   [Thanks](#thanks)
+
+## Objective-C++
+
+*   [zoontek/react-native-permissions](https://github.com/zoontek/react-native-permissions) - An unified permissions API for React Native on iOS, Android and Windows.
 
 ## TypeScript
 
@@ -1199,8 +1204,6 @@
 *   [reactnativecn/react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
 
 *   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
-
-*   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 
 ## Rust
 
