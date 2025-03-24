@@ -1161,7 +1161,7 @@
 
 *   [CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) - :ant:前端面试复习笔记
 
-*   [ConardLi/awesome-coding-js](https://github.com/ConardLi/awesome-coding-js) - 用JavaScript实现的算法和数据结构，附详细解释和刷题指南
+*   [ConardLi/awesome-coding-js](https://github.com/ConardLi/awesome-coding-js) - Algorithms and data structures implemented in JavaScript, with detailed explanations and tutorials
 
 *   [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 
@@ -1513,7 +1513,7 @@
 
 ## Stylus
 
-*   [ConardLi/ConardLi.github.io](https://github.com/ConardLi/ConardLi.github.io) - ConardLi 写 blog 的地方
+*   [ConardLi/ConardLi.github.io](https://github.com/ConardLi/ConardLi.github.io) - ConardLi blogs
 
 ## Less
 
