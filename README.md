@@ -19,6 +19,7 @@
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
+*   [Svelte](#svelte)
 *   [Kotlin](#kotlin)
 *   [Objective-C++](#objective-c)
 *   [Java](#java)
@@ -625,8 +626,6 @@
 
 *   [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 
-*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-
 *   [jmurzy/react-native-foldview](https://github.com/jmurzy/react-native-foldview) - FoldView implemented in JavaScript ⛱
 
 *   [soldair/node-qrcode](https://github.com/soldair/node-qrcode) - qr code generator
@@ -1074,6 +1073,10 @@
 *   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 *   [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
+
+## Svelte
+
+*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Kotlin
 
