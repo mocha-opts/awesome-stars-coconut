@@ -786,8 +786,6 @@
 
 *   [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2024)
 
-*   [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
-
 *   [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 
 *   [jonasschmedtmann/complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) - Starter files, final projects, and FAQ for my Complete JavaScript course
@@ -1025,6 +1023,8 @@
 *   [margox/braft-editor](https://github.com/margox/braft-editor) - 美观易用的React富文本编辑器，基于draft-js开发
 
 *   [YvetteLau/Blog](https://github.com/YvetteLau/Blog) - 【前端进阶】优质博文
+
+*   [JinJieTan/react-webpack](https://github.com/JinJieTan/react-webpack) - React移动端项目，手动配置的脚手架，完美性能优化的极致追求
 
 ## HTML
 
