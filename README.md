@@ -290,6 +290,8 @@
 
 *   [YXL76/cloudmusic-vscode](https://github.com/YXL76/cloudmusic-vscode) - Netease Music for VS Code
 
+*   [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
+
 *   [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
 
 *   [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
@@ -649,8 +651,6 @@
 *   [kosmetism/react-soundplayer](https://github.com/kosmetism/react-soundplayer) - 📻 Create custom web audio players with React
 
 *   [souporserious/react-media-player](https://github.com/souporserious/react-media-player) - React audio and video player.
-
-*   [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 
 *   [CreateJS/SoundJS](https://github.com/CreateJS/SoundJS) - A Javascript library for working with Audio. It provides a consistent API for loading and playing audio on different browsers and devices. Currently supports WebAudio, HTML5 Audio, Cordova / PhoneGap, and a Flash fallback.
 
