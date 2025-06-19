@@ -752,6 +752,8 @@
 
 *   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+
 *   [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于 WeChaty 结合 DeepSeek / ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
 
 *   [oceanlvr/ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) - 🤖️ A ChatGPT based GitHub robot. dialogue/CR/etc..
@@ -791,6 +793,8 @@
 *   [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 
 *   [ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis) - :thumbsup: Vue.js 源码分析
+
+*   [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 
 *   [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 
@@ -1082,8 +1086,6 @@
 
 *   [ten-ltw/JavaScript-The-Definitive-Guide-7th-zh](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh) - 《JavaScript权威指南第七版》中英对照
 
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 *   [w3c/aria-practices](https://github.com/w3c/aria-practices) - WAI-ARIA Authoring Practices Guide (APG)
@@ -1363,8 +1365,6 @@
 *   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 
 *   [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
-
-*   [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 
 *   [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!
 
