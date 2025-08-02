@@ -989,7 +989,7 @@
 
 ## miscellaneous
 
-*   [wassupjay/n8n-free-templates](https://github.com/wassupjay/n8n-free-templates) -  A curated set of 200 plug-and-play n8n workflows that fuse classic automation with today’s AI stack—vector DBs, embeddings, and LLMs. Import any JSON, add your creds, hit Activate, and you’re live. Built to demo, prototype, or drop straight into production.
+*   [wassupjay/n8n-free-templates](https://github.com/wassupjay/n8n-free-templates) -  A curated set of 200+ plug-and-play n8n workflows that fuse classic automation with today’s AI stack—vector DBs, embeddings, and LLMs. Import any JSON, add your creds, hit Activate, and you’re live. Built to demo, prototype, or drop straight into production.
 
 *   [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 
