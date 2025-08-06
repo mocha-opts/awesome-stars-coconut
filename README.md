@@ -21,7 +21,6 @@
 *   [CSS](#css)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
-*   [MDX](#mdx)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Java](#java)
 *   [HTML](#html)
@@ -36,6 +35,7 @@
 *   [PHP](#php)
 *   [Assembly](#assembly)
 *   [Hack](#hack)
+*   [MDX](#mdx)
 *   [Clojure](#clojure)
 *   [C](#c-1)
 *   [Swift](#swift)
@@ -1161,17 +1161,9 @@
 
 *   [feimosi/baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - :zap: Simple and easy to use lightbox script written in pure JavaScript
 
-## MDX
+## Jupyter Notebook
 
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-
-*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-
-*   [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
-
-*   [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
-
-## Jupyter Notebook
 
 *   [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 
@@ -1438,6 +1430,14 @@
 ## Hack
 
 *   [slan-ning/coolshell-markdown](https://github.com/slan-ning/coolshell-markdown) - coolshell.cn markdown version archive
+
+## MDX
+
+*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+
+*   [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
+
+*   [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 
 ## Clojure
 
