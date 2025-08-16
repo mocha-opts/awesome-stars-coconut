@@ -467,7 +467,7 @@
 
 *   [alexanderatallah/window.ai](https://github.com/alexanderatallah/window.ai) - Use your own AI models on the web
 
-*   [YXL76/cloudmusic-vscode](https://github.com/YXL76/cloudmusic-vscode) - Netease Music for VS Code
+*   [YXL76/cloudmusic-vscode](https://github.com/YXL76/cloudmusic-vscode) -
 
 *   [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 
