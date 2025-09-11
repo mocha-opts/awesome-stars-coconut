@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
@@ -39,7 +40,6 @@
 *   [MDX](#mdx)
 *   [Clojure](#clojure)
 *   [C](#c-1)
-*   [Swift](#swift)
 *   [Makefile](#makefile)
 *   [Lua](#lua)
 *   [Markdown](#markdown)
@@ -50,6 +50,20 @@
 *   [Dockerfile](#dockerfile)
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## Swift
+
+*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+
+*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+
+*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
+
+*   [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
+
+*   [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
+
+*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 
 ## TypeScript
 
@@ -1177,8 +1191,6 @@
 
 *   [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 
-*   [sanyuan0704/my\_blog](https://github.com/sanyuan0704/my_blog) - 神三元的博客，一起构建完整知识体系
-
 ## Jupyter Notebook
 
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -1466,18 +1478,6 @@
 *   [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 
 *   [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
-
-## Swift
-
-*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-
-*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
-
-*   [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
-
-*   [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
-
-*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 
 ## Makefile
 
