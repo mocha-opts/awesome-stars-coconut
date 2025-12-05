@@ -15,6 +15,8 @@
 
 ## Table of Contents
 
+*   [Handlebars](#handlebars)
+*   [TeX](#tex)
 *   [Rust](#rust)
 *   [Swift](#swift)
 *   [TypeScript](#typescript)
@@ -44,13 +46,22 @@
 *   [Lua](#lua)
 *   [Markdown](#markdown)
 *   [Ruby](#ruby)
-*   [Handlebars](#handlebars)
 *   [Rich Text Format](#rich-text-format)
 *   [Solidity](#solidity)
 *   [SCSS](#scss)
 *   [Dockerfile](#dockerfile)
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## Handlebars
+
+*   [rust-lang-cn/nomicon-zh-Hans](https://github.com/rust-lang-cn/nomicon-zh-Hans) - Rust 死灵书简体中文翻译
+
+*   [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
+
+## TeX
+
+*   [MeouSker77/ProgrammingRust](https://github.com/MeouSker77/ProgrammingRust) - 本书为《Programming Rust - Fast, Safe Systems Development》第2版的个人中文翻译，仅供学习和交流使用，如有侵权请联系作者删除
 
 ## Rust
 
@@ -374,7 +385,7 @@
 
 *   [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for Markdown creators.  Supports Obsidian, Typora, VS Code etc. and 10+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 10+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 
 *   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 
@@ -906,8 +917,6 @@
 
 *   [HubSpot/offline](https://github.com/HubSpot/offline) - Automatically display online/offline indication to your users
 
-*   [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) - jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……
-
 ## JavaScript
 
 *   [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
@@ -1282,8 +1291,6 @@
 
 *   [chokcoco/jQuery-](https://github.com/chokcoco/jQuery-) - jQuery源码解析
 
-*   [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
-
 ## Jupyter Notebook
 
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -1476,7 +1483,7 @@
 
 ## Objective-C
 
-*   [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
+*   [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
 
 ## Makefile
 
@@ -1497,10 +1504,6 @@
 ## Ruby
 
 *   [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-
-## Handlebars
-
-*   [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 
 ## Rich Text Format
 
