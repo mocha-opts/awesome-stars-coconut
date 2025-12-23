@@ -378,6 +378,8 @@
 
 *   [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 
+*   [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
+
 *   [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Browser-native component library, framework-agnostic, base on web components.(企业级 H5 UI 组件库，无框架，即插即用。)
 
 *   [jdf2e/nutui-react](https://github.com/jdf2e/nutui-react) - 京东风格的移动端 React 组件库 、支持多端小程序(A React UI Toolkit for Mobile Web)
@@ -1039,8 +1041,6 @@
 *   [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《Go 程序员宝典》：go 基础语法，go 并发模式，go runtime 实现原理 ，企业级 go 语言项目经验。
 
 *   [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
-
-*   [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
 
 *   [TonyMckes/conduit-realworld-example-app](https://github.com/TonyMckes/conduit-realworld-example-app) - RealWorld example app, created to demonstrate a fully fledged fullstack application built with React / Express.js / Sequelize / PostgreSQL including CRUD operations, authentication, routing, pagination, and more.
 
