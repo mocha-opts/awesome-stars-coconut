@@ -240,7 +240,7 @@
 
 *   [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com
 
-*   [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+*   [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 
 *   [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 
