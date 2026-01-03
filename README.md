@@ -978,7 +978,7 @@
 
 *   [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - 一款基于 React v19 的高性能、企业级中后台前端解决方案...
 
-*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 *   [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 
