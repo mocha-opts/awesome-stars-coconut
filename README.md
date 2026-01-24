@@ -337,8 +337,6 @@
 
 *   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
 
-*   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
-
 *   [ychengcloud/react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - This Starter utilizes React, Recoil, React Query, React Hooks, Typescript, Axios And Vite. 全新技术栈的后台管理系统
 
 *   [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
@@ -1360,6 +1358,8 @@
 *   [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 
 *   [ten-ltw/JavaScript-The-Definitive-Guide-7th-zh](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh) - 《JavaScript权威指南第七版》中英对照
+
+*   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
