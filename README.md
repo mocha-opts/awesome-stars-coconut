@@ -15,8 +15,8 @@
 
 ## Table of Contents
 
-*   [Zig](#zig)
 *   [TypeScript](#typescript)
+*   [Zig](#zig)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -54,11 +54,9 @@
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
 
-## Zig
-
-*   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-
 ## TypeScript
+
+*   [QLing-yes/ElysiaTemplate](https://github.com/QLing-yes/ElysiaTemplate) - We are committed to creating a very usable template and welcome your comments
 
 *   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 
@@ -470,6 +468,10 @@
 
 *   [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
+## Zig
+
+*   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+
 ## miscellaneous
 
 *   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -645,8 +647,6 @@
 *   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
 *   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources \[BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
-
-*   [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 
 ## Python
 
