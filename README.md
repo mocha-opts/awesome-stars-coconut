@@ -60,7 +60,7 @@
 
 *   [QLing-yes/ElysiaTemplate](https://github.com/QLing-yes/ElysiaTemplate) - We are committed to creating a very usable template and welcome your comments
 
-*   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+*   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 
 *   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 
