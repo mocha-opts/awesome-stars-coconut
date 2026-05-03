@@ -47,7 +47,6 @@
 *   [Markdown](#markdown)
 *   [Ruby](#ruby)
 *   [Rich Text Format](#rich-text-format)
-*   [Nunjucks](#nunjucks)
 *   [Solidity](#solidity)
 *   [SCSS](#scss)
 *   [Dockerfile](#dockerfile)
@@ -958,6 +957,8 @@
 
 *   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 
+*   [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
+
 *   [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 
 *   [lefex/FE](https://github.com/lefex/FE) - 前端 100 天，帮助 10W 人入门并进阶前端。
@@ -1507,10 +1508,6 @@
 ## Rich Text Format
 
 *   [mcxiaoke/mqtt](https://github.com/mcxiaoke/mqtt) - MQTT协议3.1.1中文翻译版，IoT，物联网
-
-## Nunjucks
-
-*   [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## Solidity
 
