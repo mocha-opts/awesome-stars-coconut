@@ -1137,7 +1137,7 @@
 
 *   [CarGuo/GSYGithubAPP](https://github.com/CarGuo/GSYGithubAPP) - React Native 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose 五个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。
 
-*   [alvin0216/react-blog](https://github.com/alvin0216/react-blog) -  react hooks + koa2 + sequelize + mysql 构建的个人博客。具备评论、通知、上传文章等等功能
+*   [guossw/react-blog](https://github.com/guossw/react-blog) -  react hooks + koa2 + sequelize + mysql 构建的个人博客。具备评论、通知、上传文章等等功能
 
 *   [sl1673495/leetcode-javascript](https://github.com/sl1673495/leetcode-javascript) - :beers: 喝杯小酒，一起做题。前端攻城狮从零入门算法的宝藏题库，根据知名算法老师的经验总结了 100+ 道 LeetCode 力扣的经典题型 JavaScript 题解和思路。已按题目类型分 label，一起加油。
 
